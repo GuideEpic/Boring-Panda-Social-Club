@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x31e437906ef7c3b31b8f9594724780df725f4c37",
+  "SCAN_LINK": "https://polygonscan.com/token/0x31e437906ef7c3b31b8f9594724780df725f4c37",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boring Panda Social Club",
+  "SYMBOL": "BPSC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boring-panda-social-club",
+  "SHOW_BACKGROUND": true
+}
